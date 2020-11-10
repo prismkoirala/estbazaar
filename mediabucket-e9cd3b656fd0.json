@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mediabucket",
+  "private_key_id": "e9cd3b656fd028f72e12299cb034bad31824d269",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxGIwpk/2irsiH\nzXLo1wdHEJPrwx7nZ3eEfC2aA15zNeFs7lQh+MTEFU3Ky7TAAjQvC+bROl3eC2Jk\nWO6vBBzdnQs2FcidITZk/lFlZKCQmltp7wOyeW6IwNY/yddNjqekdSnMNZb4pign\nFBUab4OT122anLujmbDExXyR9hEwS0TU47tQVpOtqShjmuYORUCpv4X4veeVWl2q\nwj2Ra5NBtt7ljydgRszke7sviSRb19DQVZDl6L3N90ga5xWABnL6PNzoJLxavQ4n\neXAfEnSY5M3EHg+Vam2GFKk/aTMzQKaR95Vwtr9pGaWfFJe2e4i6PZlSo3gI7Bhs\n2eAz9kVJAgMBAAECggEAAbwAT2iZdiOTvNoTEzBb7A2/rRzq62WU2DwmbtjemW6V\n0m0eb3tnY0DkKKVzE+L8Ti5QfeG+SUOU8e+kXXFts5vrSrB5l6mwxdoZw6Oce54P\nYXZg87lYZEgjMQUR3JAWQzg53Gaf9Q0c3TkcoHbRc+a1tkBtCVlNemKGvvUzzjnC\nUCL6VxBGUA4DSTDcCsRn1X4Af9PECczLxEYwo8PIBS6QcdvbQiekVgm8W5QDFv3P\ns/QQbkgYuOMmaZ3UXzkJ2ztKH7V2BRJvb1NEsUixlbHb7u9AvWfL3SEySU6IVQZg\nwyOTnloH7dfkEd9egdHnZJyv/Vf0lCc7oYkbhwlAqQKBgQDbl1VaVKqpt/ucHp5s\nVBXC0NFPnh9reHJ9oWkFL1APTxMLDw/3/LuyN8WN+z+kIucY71HXrHU65M2cb36Z\nFgam6+IJk2+ZbbalFaPgA8RDZBMYe7AaYl4cjCgssKonFStxF6+/gjkVryba9jYE\nstkJZBlQYxA4lDdL1xg8qUpdtQKBgQDOdXrHEvV8aI1N1WGPNwx8F+Hq57V5B136\nETXBm7UYRV6CPFnpYoT985z1CiBrA91+3qXWvCHxiJ+t49D9wYSEwJX7BJHhGeoW\nvBC4PMnS68i/zU7HAHH76osy5pEwlw1iE5KVz4UQFVvK0grlPIHn1K4uu1jHn1N/\nXY4pPA0lxQKBgHa8nLVsZJ/C0TV4xPcUfHPMD/H6MUkeZuIRnkTkcWjlvAlVyq+w\nJBnY2GTOf3oUOVudRGbXZMhEof09uHm0lEI7+AxvgX+3+HPJgMQHpV8/RKgPcYjC\nudq72plXqZnac5QCV9C47H8SJ3NsgIcH4h2W161E86d0VXYXx449h+2lAoGBAMRC\nIwt4t0mjLafujoYQo1qXbVfbGcRKP4iGsZ4xAQ5oavXMnv/femLaILtC/BwemYCP\n7//X6UBsSraHWNTQD8QOOsRazL2536/q6M3qY0SQhM3nQdqkTrZVeCtTyHLzNHKl\n/nNQyMHIO/DqiBbv1OFnaIjd6QAiMcJiUdBa2HitAoGBAJ5F/bhlCaCbgpJDpKvB\n2Jwn2Wg1cDEaeaUmzIHZAL5TrR0NjlOv11Kx7+bfMlSNR9nUdrRG/nq7b6vNugCM\nBDnF/Ob5836W1yiOuGOJLjuofF0ZfwzdWa93ae3rV6xybwDO7XmDFlnqG3WTIpIv\njkCrFK4YXl3Tjk6+nkaNBFvT\n-----END PRIVATE KEY-----\n",
+  "client_email": "mediaservice@mediabucket.iam.gserviceaccount.com",
+  "client_id": "102607140481022741083",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mediaservice%40mediabucket.iam.gserviceaccount.com"
+}
